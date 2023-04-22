@@ -5,6 +5,12 @@ welcome to kitchen
 mango
 apple
 
+banana
+grapes
+
 thank you
 
+done
+
 final one
+
